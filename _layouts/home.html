@@ -4,26 +4,31 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<html>
 
+<html>
 {% include head.html %}
 
-<body>
-
     {% include header.html %}
-
+<body>
     <!-- Banner -->
     <section id="banner" class="major">
         <div class="inner">
-            <header class="major">
+			<div class="row">
+			  <div class="column">
+	            <header class="major">
+	                <h1>{{ page.landing-title }}</h1>
+			  </div>
+			</div>
+			<!-- this version gives you a line that extends across the whole page -->
+            <!-- <header class="major">
                 <h1>{{ page.landing-title }}</h1>
-            </header>
-            <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
-                <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">Get Started</a></li>
-                </ul>
-            </div>
+            </header> -->
+            <!-- <div class="content"> -->
+                <p>The Johns Hopkins <a href="https://bio.jhu.edu/">Department of Biology</a> and the Graduate Program in <a href="https://cmdb.jhu.edu/">Cell, Molecular, Developmental Biology and Biophysics</a> (CMDB) remember Greg and his impact on our community.</p>
+                <!-- <ul class="actions"> -->
+                    <!-- <li><a href="#one" class="button next scrolly">Get Started</a></li> -->
+                <!-- </ul> -->
+            <!-- </div> -->
         </div>
     </section>
 
@@ -34,17 +39,75 @@
         {% include tiles.html %}
 
         <!-- Two -->
-        <section id="two">
-            <div class="inner">
-                <header class="major">
-                    <h2>Massa libero</h2>
-                </header>
-                <p>{{ content }}</p>
-                <ul class="actions">
-                    <li><a href="landing.html" class="button next">Get Started</a></li>
-                </ul>
-            </div>
-        </section>
+		<section id="about_greg" class="spotlights">
+			<section>
+				<div class="content">
+					<div class="inner">
+						<header class="major">
+							<h2>About Greg</h2>
+						</header>
+						<p><b>Greg Fuller</b> (1992-2022) was </p>
+						<ul class="actions">
+							<li><a href="obituaries.html" class="button">Read more</a></li>
+						</ul>
+					</div>
+				</div>
+				<a href="" class="image">
+					<img src="assets/images/james.png" alt="James" data-position="center center">
+				</a>
+			</section>
+		</section>
+		
+		<!-- Three -->
+		
+		<section id="memorials" class="spotlights">
+			<section>
+				<a href="" class="image">
+					<img src="assets/images/logo_v3_outline.png" alt="logo" data-position="center center"/>
+				</a>
+				<div class="content">
+					<div class="inner">
+						<header class="major">
+							<h2>Memorials</h2>
+						</header>
+						<p>Read memorials about Greg from his family and the CMDB community.</p>
+						<ul class="actions">
+							<li><a href="memorials.html" class="button">Read more</a></li>
+						</ul>
+						<!-- <p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdO6s-xnuFjByy3tP4AphkLBzO3ValbacWEgMZeXVMX4oSzTA/viewform?usp=sf_link">here</a> to contribute your memories of James</p> -->
+					</div>
+				</div>
+			</section>
+		</section>
+		
+
+		<section id="memorials" class="spotlights">
+			<section>
+				<div class="content">
+					<div class="inner">
+						<header class="major">
+							<h2>Donate</h2>
+						</header>
+						<p>A memorial fund has been established in honor of James. Junior Training and Educational Connections Hotspot (JTech) will promote training and mentoring of junior faculty and students in computational biology. We invite you to donate to support this cause.</p>
+						<ul class="actions">
+							<li><a href="https://give.communityfunded.com/o/eberly/i/eberly-college-of-science/s/jtech#CommunityI39hubL9i" class="button">Donate to memorial fund</a></li>
+						</ul>
+						<!-- <p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdO6s-xnuFjByy3tP4AphkLBzO3ValbacWEgMZeXVMX4oSzTA/viewform?usp=sf_link">here</a> to contribute your memories of James</p> -->
+					</div>
+				</div>
+			</section>
+		</section>
+		<!-- <section id="two">
+			<div class="inner">
+				<header class="major">
+					<h2>Memorials</h2>
+				</header>
+				<p>Read memorials about James from the CMDB community.</p>
+				<ul class="actions">
+					<li><a href="memorials.html" class="button next">Read more</a></li>
+				</ul>
+			</div>
+		</section> -->
 
     </div>
 
