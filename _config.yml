@@ -2,7 +2,7 @@
 title: In Memory of Greg Fuller
 subtitle:
 email: gregfuller.memorial@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: The JHU Department of Biology and Graduate Program in Cell, Molecular, Developmental Biology and Biophysics remember Greg and his impact on our community.
 baseurl: # the subpath of your site, e.g. /blog
 url: https://gregfuller-memorial.github.io # the base hostname & protocol for your site
 author:
@@ -21,15 +21,16 @@ tiles-count: 0
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
-socials:
-  GitHub:
-  GitLab:
-  Google-Plus:
-  Instagram:
-  LinkedIn:
-  Twitter:
-  Facebook:
-  Slack:
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
 
 # build settings
 markdown: kramdown
