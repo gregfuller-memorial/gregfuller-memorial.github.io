@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-landing-title: 'In Memory of James Taylor'
+landing-title: 'In Memory of Greg Fuller'
 description: null
 nav-menu: true
 image: null
