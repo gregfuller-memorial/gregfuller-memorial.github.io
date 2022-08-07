@@ -1,8 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'In Memory of James Taylor'
 description: null
+nav-menu: true
 image: null
 author: null
 show_tile: false
