@@ -31,7 +31,7 @@ show_tile: false
 
 <span class="image fit">
 	<figure class = "image50">
-		<img src="assets/images/TaylorLab2.jpeg" alt="The Kim Lab"/>
+		<img src="assets/images/JohnKim.jpeg" alt="The Kim Lab"/>
 	</figure>
 </span>
 
