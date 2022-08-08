@@ -214,13 +214,13 @@ show_tile: false
 	margin: 0;
     }
     .container {
-	width: 100px;
+	width: 50%;
 	display: flex;
 	align-items: center;
     }
     .container img {
-	width: 200px;
-	margin-right: 20px;
+	width: 50%;
+	margin-right: 25px;
     }
 </style>
 		
