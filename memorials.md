@@ -219,7 +219,7 @@ show_tile: false
 	align-items: center;
     }
     .container img {
-	width: 50%;
+	width: 40%;
 	margin-right: 25px;
     }
 </style>
