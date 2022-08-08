@@ -159,10 +159,49 @@ show_tile: false
 	<p align="justify">I will miss Greg terribly. He was genuinely one of the good ones. I think this program generally is, and I personally am, better for having experienced him and deprived for having lost him.</p>
 	<p><b>—Matthew Pavesic</b></p>	
 </div>
+
+<div class="box">
+	<p align="justify">I first met Greg in the spring of 2011 when, as a high school senior, he first visited my Integrated Imaging Center (IIC) at Johns Hopkins. He would go on to work in the IIC for for the next 4 years, throughout his undergraduate career. He was the IIC’s quality control technician who weekly examined, tested, and confirmed that all of our fluorescence microscopy instruments were performing properly. He subsequently became a research technician and later a graduate student in the laboratory of John Kim….One of my most cherished memories at Hopkins was learning that Greg had been accepted into the CMDB graduate program; and I was thrilled to have the opportunity to follow his burgeoning career…Alas, a career cut so tragically short!</p>
+	<p align="justify">In my all too brief a time working with and knowing Greg, like so many I am sure, I was most struck by his unique gift/combination of intelligence melded with his uncommon humility….To be sure, Greg was as smart as they came; and yet his intelligence was often masked in a quiet self-assurance/self-confidence, and, yes, understated humility… He was very smart and, yet unafraid of being wrong; he embraced responsibility but never hesitated to ask for help; and, most uncommonly endearing, he was a good listener and ‘oh so’ kind!…He always had keen insights to share, but was never in a rush to share them…Simply, Greg was a genuinely good person and had all of the qualities to become a great scientist; and yet, I believe his greatest contributions to the world/humanity would have been in training, educating, and leading others…The future will not be nearly so bright in Greg’s absence; but, gosh, did he leave a bright legacy!</p>
+	<p><b>—Michael McCaffery</b></p>	
+</div>
+		
+<div class="box">
+	<p align="justify">I still remember the date I met Greg in the elevator when he was undergraduate. Then he became a technician, then an outstanding PhD student. What never change is Greg's smile, for me, always in the elevator. It hurts me after seeing this wonderful scientist growing up so quickly, then life is not as fair as I hope so, even as a medical doctor I should understand more than anyone else. Our life will move on but is different without you, Greg. Thank you very much for your contribution in G-body and RNA biology. As beauty of the science has always been, part of your life will stay shining after years passing by.</p>
+	<p align="justify">For Professor Fuller and family, you have a incredible son we all remember. Please accept my condolences for your family's loss.</p>
+	<p><b>—Ting-Yu Yeh, M.D.</b></p>	
+</div>
+
+<div class="box">
+	<p align="justify">Greg and I started at Hopkins around the same time. We chatted quite often about similar grad-school experiences where our projects were different from the rest of the labs. Greg always radiated infectious chill and positivity, and with such attitude managed to take his research to exciting places. He and I were scheduled for progress report on the same day, and I still remember sitting in the audience being blown away by his talk. We last spoke a few weeks ago about his future plans in academia, and it is still difficult to process what just transpired. I offer the Fuller family my deepest condolences--Greg was a truly wonderful person and his memory will live on.</p>
+	<p><b>—Vu Nguyen</b></p>	
+</div>
 		
 <div class="box">
 	<p align="justify">Rest in peace, Greg. Just a few days ago, we were talking about latest findings and future research plans. You had ideas, hopes and dreams, waiting for you to realize. I still remember your fantastic role as Steve Harvey in our 4th year retreat skit. I also vividly recall you were always the first to finish exams. With a shared goal, I imagined we would stay in touch for the decades to come. So long, my friend. I will miss you. Xiuqi, July 12, 2022</p>
 	<p><b>—Xiuqi Chen</b></p>	
+</div>
+		
+<!-- Family and Friends -->
+<h2 id="content">Family and Friends</h2>
+<div class="box">
+	<p align="justify">Greg loved scientific inquiry and blossomed as an undergraduate and graduate student at Johns Hopkins. We of course know him from his entire life, which was filled with fascination and delight about all of what makes up our world - this includes music (from Rachmaninoff to Green Day), art (his favorite artist was Frank Stella and he loved the Detroit Institute of Art, the Baltimore Museum of Art and the Visionary Museum). He loved the tactile nature of books and manuscripts and read widely - but always books. At the same time, he learned in many ways - his favorite podcast was "This American Life". He loved his fiancée, Ann Mendoza, and her wonderful family, mother Dulce, father Ramon, brother Ardi and sister Ara. And we knew he loved us. He called his mom or dad almost every day - usually when walking to or from the lab (although he mercifully stopped calling us on the way in when he started going in at 5AM during the pandemic). We all talked with him for hours. He'd talk about his life and art, cooking, TV shows, movies, music, plans for his and Ann's wedding, his experiments, joys and frustrations of grad school, and he'd ask about us and support us in every way. He and his sister Sarah would talk about everything in their lives - relationships, work, fun, their parents. They were incredibly close. We want to thank all of his friends, lab-mates, colleagues and mentors at Hopkins and elsewhere for their camaraderie, friendship support and encouragement. He was ours but also belonged to everyone who cared about him. He will be loved and he will be missed. But we feel so lucky to have known him for each of his 29 years.</p>
+	<p><b>—Carol Stepanchuk, Roberta Fuller & Sarah Fuller</b></p>
+</div>	
+		
+<div class="box">		
+	<p align="justify">You were one of the first friends I met at JHU and we shared so many good memories over the years. From eating late-night at the FFC as freshman, to our adventures in the Thunderdome, to the winter storm during our time at "Casa Bonita" where we wandered around in the snow, and to all of our antics in-between. Your funny laugh (Jimmy Jinklemeyer!), your love for the Simpsons and ska, your love for science and all things learning, your genuine and kind nature. I am going to miss you so much, Greg.</p>
+	<p><b>—Darian Hadjiabadi</b></p>
+</div>
+
+<div class="box">		
+	<p align="justify">While at Johns Hopkins, I was in the Phi Delta Theta fraternity with Greg. He was such a great person and someone I am glad to call my brother. I always enjoyed hearing about all the stuff he was doing in lab. I send my condolences to the his family and loved ones.</p>
+	<p><b>—Noah Dennis</b></p>
+</div>		
+		
+<div class="box">		
+	<p align="justify">Greg was like family to me. Since 1999, our families (the Prices and the Fullers) have spent Thanksgiving together every year. This tradition evolved through the years, from our younger years playing video games, staging vast landscapes with playmobil toys, and creating a spoof "Behind the Music" documentary about our fictional band GASS (Greg Alexander Sarah Sarah), through adulthood, where our time was spent learning how Greg's research was progressing, celebrating important graduate school milestones, and meeting his loving fiancee, Ann. It has been a joy to know Greg through the years; he was truly a wonderful combination of bright and passionate, but also so warm and unpretentious, conversant in a wide variety of topics including cooking, biology, mathematics, art, history, and music. I will miss so many things about Greg as I reflect on some of my favorite memories of him. I so much appreciated hearing his thoughtful observations as we went around the table to give thanks, sharing quiet moments slicing apples or folding paper cranes together, and talking to him about life as we went on pre-dinner walks. Thanksgiving became a big reunion as we all moved to different cities in adulthood, and it was always so sweet to see how excited and curious he was to catch up with his sister Sarah during these times. When you were with him, you felt heard and cared for. Greg was a loving brother and friend and he is so loved and missed by us. I have 2 pictures I attempted to send to the email address above but the message bounced back. Feel free to email me at pricesa89@gmail.com for them if they are helpful.</p>
+	<p><b>—Sarah Price</b></p>
 </div>
 		
 <center>
