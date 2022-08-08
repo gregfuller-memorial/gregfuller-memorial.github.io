@@ -8,7 +8,7 @@
 
 	#banner {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("../images/banner.jpg")');
+//		@include vendor('background-image', 'url("../images/banner.jpg")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
@@ -20,7 +20,7 @@
 		height: 60vh;
 		margin-bottom: -3.25em;
 		max-height: 32em;
-		min-height: 22em;
+		min-height: 12em;
 		position: relative;
 		top: -3.25em;
 
@@ -28,7 +28,7 @@
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
 			@include vendor('transition-delay', '0.75s');
 			@include vendor('pointer-events', 'none');
-			background-color: _palette(bg);
+			background-color: black;
 			content: '';
 			display: block;
 			height: 100%;
@@ -96,8 +96,8 @@
 
 		&.major {
 			height: 75vh;
-			min-height: 30em;
-			max-height: 50em;
+			min-height: 25em;
+			max-height: 25em;
 
 			&.alt {
 				  opacity: 0.75;
