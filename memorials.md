@@ -43,7 +43,9 @@ show_tile: false
 <div class="box">
 	<p align="justify">As an undergraduate 3 years ago who was always nervous about her position/abilities in lab, I deeply appreciated Greg's calming presence. Greg was the pinnacle of "in his lane and flourishing." He was one of the most consistently hardworking and kind graduate students I have run into over the years, and I always knew that I could turn to him if I had a pressing question or minor crisis in lab. My deepest condolences to his friends and family.</p>
 	<b>—Connie Xiao</b>
+	
 </div>
+		
 <div class="box">
 	<p align="justify">Greg was not your typical guy…he was a truly phenomenal person. He was quiet and kept to himself but when he had something to say it was always an insightful and well thought out comment. If he had something to say, you wanted to listen. Having worked with him in John Kim’s lab for six years, I can say he was truly a brilliant scientist, a meticulous worker, and dedicated to his work and his project. He had the rare ability to draw from various scientific fields and think about his project from all these different angles. Despite the fact that we worked in lab conducting scientific research each day, some of my favorite memories with him involve conversations that weren’t about science at all. I remember one particular Friday evening after a long week of work, we were wrapping up and somehow Greg and I got into a discussion about philosophy. We sat in lab after with no more science left to do that night and just delved into differing perspectives on morality. Greg was thrilled to be discussing Hume, Kant, Hobbes, and other philosophers. His ability to cite philosophers’ work just as easily as he could cite the work of biologists studying phase separation was truly impressive. It is a tragedy to have lost such an immensely brilliant person all too soon. But more than brilliant, he was deeply kind, generous, and devoted to the people he cared about. This loss is tragic and I will truly miss him.</p>
 	<b>—Jessie Kirshner</b>
@@ -115,7 +117,6 @@ show_tile: false
 		
 <!-- Students -->
 <h2 id="content">Students, Postdocs, and Staff</h2>
-
 <div class="box">
 	<p align="justify">I was a bored with Greg for a few years. It was clear to me that in addition to how awesome he was in lab that he was an all around great person who cared for all the grad students in our program. I'm going to miss randomly running into Greg in the halls, he always seemed so happy to be here and brightened our days!</p>
 	<p><b>—Caitlin Pozmanter</b></p>
@@ -129,41 +130,46 @@ show_tile: false
 <div class="box">
 	<p align="justify">I was introduced to Greg's brilliance when I rotated in the Kim lab last year and I saw first hand how meticulous he was with his project. I could tell he was thinking about his work more than anyone else and was completely engaged. It was motivational; he became someone I could look up to at a distance and model my work ethic after. In lab meetings during my rotation, he was always inquisitive and kind including with me, knowing that I knew so little. I really appreciated that. He will be truly missed.</p>
 	<p><b>—Gemechu Mekonnen</b></p>
-
+</div>
+		
 <div class="box">
 	<p align="justify">Hello, I am a classmate of Greg. I am sad that he is no longer with us. He was smart, humble, and helpful to everyone. Our department will miss him greatly.</p>
 	<p><b>—Jee Min Kim</b></p>
+</div>	
 	
 <div class="box">
 	<p align="justify">Greg was a good friend and great scientific mind. He single handedly introduced me to yeast science when I embarked on a y2h journey a few years ago. No matter how busy he was, he always had time to answer my silly questions or explain some cryptic protocol points for me. He may not remember this, but we made a bet at the end of first year when we joined our neighboring labs together, that the last to graduate owed the other a six pack. Well, as far as i'm concerned, given his prolific achievements Greg deserved that six pack a few years ago. Greg was a role model and a quiet leader for us both academically and in his life outside of school. He had a kind and generous spirit, and his gentle patience, deep care and good humor will be missed across the floor.</p>
 	<p><b>—Jocelyn Haversat</b></p>
-
+</div>
+		
 <div class="box">
 	<p align="justify">During my rotation with the Taylor lab, I reached out the Greg to ask him about G-bodies, as they were really fascinating to me. He was super enthusiastic and allowed me to take some of his time one evening to explain his work and how I could potentially look at G-bodies in mammalian cells. Although it did not come to fruition, Greg became a role model for how to interact with other students; with respect, compassion, and enthusiasm. You will be missed.</p>
 	<p><b>—Justin Mirazee</b></p>
-
+</div>
+		
 <div class="box">
 	<p align="justify">While Greg and I were not very close, he was always a positive light on the third floor of UTL. No matter what he was working on, if I had a question, he was excited to chat and give an answer. It was clear that Greg was heavily invested in his work and was on-track to do even greater things.</p>
 	<p><b>—Matthew Hurlock</b></p>	
-
+</div>
+		
 <div class="box">
 	<p align="justify">Greg was genuinely one of the kindest and gentlest humans I have ever met. Amid the numerous times he would stop in the hall to talk and catch up, I remember most fondly two particularly illustrative examples of his character.</p>
 	<p align="justify">During the interview weekend before I was even a student here, Greg displayed an empathy that left an impression. The interview process, with the frantic shuttling between faculty offices for interviews, student and program presentations in various locations, and the insane load of new people with whom I had to interact, was difficult and emotionally exhausting. In the midst of it all, I had found an opportunity to sit quietly and collect myself. I looked up to see Greg hovering nearby, and he asked if I was doing okay. He said that he understood if I just needed a moment to myself but he also wanted to make sure that I was not being ignored and left out. When I replied that I was trying to get a quiet minute without engagement, he completely understood and gave me that space. That level of care and understanding reflected very well on the character of students in this program and influenced my ultimate decision to come here.</p>
 	<p align="justify">Another time, I was walking down the hall of UTL clearly distraught over the continued failure of an experiment I had struggled with for many months. Greg stopped me to ask how things were. Upon hearing of my troubles, he immediately invited me up to his bench to talk it through. With his singular patience and attentiveness, he guided me through the process so that I could overcome the hurdles and push forward.</p>
 	<p align="justify">I will miss Greg terribly. He was genuinely one of the good ones. I think this program generally is, and I personally am, better for having experienced him and deprived for having lost him.</p>
 	<p><b>—Matthew Pavesic</b></p>	
-
+</div>
+		
 <div class="box">
 	<p align="justify">Rest in peace, Greg. Just a few days ago, we were talking about latest findings and future research plans. You had ideas, hopes and dreams, waiting for you to realize. I still remember your fantastic role as Steve Harvey in our 4th year retreat skit. I also vividly recall you were always the first to finish exams. With a shared goal, I imagined we would stay in touch for the decades to come. So long, my friend. I will miss you. Xiuqi, July 12, 2022</p>
 	<p><b>—Xiuqi Chen</b></p>	
-	
+</div>
+		
 <center>
 	<ul class="actions">
 		<li><a href="https://docs.google.com/forms/d/1SRoGi01uiZUYuhCTZGGNAaCP2HeZWusOSIHydih2wyQ/edit?usp=sharing" class="button special fit">Contribute your memories of Greg</a></li>
 	</ul>
 </center>
-
-
 
 <header class="major">
 	<h1>Photos</h1>
