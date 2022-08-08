@@ -30,8 +30,7 @@ show_tile: false
 <h2 id="content">John Kim Lab Members</h2>
 
 <span class="image fit">
-	<figure class = "image50">
-		<img src="assets/images/JohnKim.jpeg" alt="The Kim Lab"/>
+		<img src="assets/images/JohnKim.jpeg" alt=""/>
 	</figure>
 </span>
 
