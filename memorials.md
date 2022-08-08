@@ -31,7 +31,6 @@ show_tile: false
 
 <span class="image fit">
 		<img src="assets/images/JohnKim.png" alt=""/>
-	</figure>
 </span>
 
 <div class="box">
