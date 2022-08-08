@@ -110,7 +110,7 @@ show_tile: false
 
 <div class="box">
 	<p align="justify">Greg has been a wonderful TA for the Epigenetics course John and I co-teach. It has been such a pleasure to work with him and get to know him. Greg is super smart, very reliable, and always a joy to work with. It is such an honor to have known and worked with Greg! We will miss him, very, very much---</p>
-	<b>—Chin Chen</b>
+	<b>Xin Chen</b>
 </div>
 		
 <!-- Students -->
