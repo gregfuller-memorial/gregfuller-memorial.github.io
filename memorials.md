@@ -214,7 +214,7 @@ show_tile: false
 	margin: 0;
     }
     .container {
-	width: 50%;
+	width: 100%;
 	display: flex;
 	align-items: center;
     }
