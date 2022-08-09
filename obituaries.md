@@ -25,7 +25,7 @@ show_tile: false
 	
 <!-- Obituary from Greg's family -->
     <section id="one">
-		<img src="assets/images/office_closeup_JK.png" alt="James's office" data-position="center center"/>
+		<img src="assets/images/Greg_portrait.jpeg" alt="" data-position="center center"/>
 		
         <div class="inner">
             <header class="major">
