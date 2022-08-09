@@ -1,9 +1,9 @@
 ---
 title: Home
 layout: home
+nav-menu: true
 landing-title: 'In Memory of Greg Fuller'
 description: null
-nav-menu: true
 image: null
 author: null
 show_tile: false
