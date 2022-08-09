@@ -34,7 +34,7 @@ show_tile: false
 			<p><i>By Carol Stepanchuk, Roberta Fuller & Sarah Fuller</i></p>
     <!-- <img src="assets/images/james.jpg" alt="James" data-position="center center" align="left" width = "614" height="707" style="margin:0px 25px"/> -->
 <div class="container">
-	<img src="assets/images/Greg_portrait.jpeg" alt="" align="right" width="30%" style="margin: 10px 10px 10px 10px">
+	<img src="assets/images/Greg_portrait.jpg" alt="" align="right" width="30%" style="margin: 10px 10px 10px 10px">
 	
 	<p align="justify"><b>Greg</b> was born in Palo Alto, California, grew up in Ann Arbor, and spent his entire adult life at Johns Hopkins in Baltimore, a city he loved.</p>
 	
