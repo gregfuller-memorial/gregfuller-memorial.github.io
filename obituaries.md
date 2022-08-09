@@ -33,7 +33,7 @@ show_tile: false
             </header>
 			
 			<!-- <h2 id="content">Title pending</h2> -->
-			<p><i>By Roberta Fuller, Carol Stepanchuk, and Sarah Fuller</i></p>
+			<p><i>By Carol Stepanchuk, Roberta Fuller & Sarah Fuller</i></p>
     <!-- <img src="assets/images/james.jpg" alt="James" data-position="center center" align="left" width = "614" height="707" style="margin:0px 25px"/> -->
 	
     <p align="justify"><b>Greg</b> was born in Palo Alto, California, grew up in Ann Arbor, and spent his entire adult life at Johns Hopkins in Baltimore, a city he loved.</p>
