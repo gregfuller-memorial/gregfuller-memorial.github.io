@@ -32,14 +32,22 @@ show_tile: false
     <img src="assets/images/In Liverpool with Sarah, June 2007.jpeg">
     <img src="assets/images/In Rome with Sarah and his dad, Sept 1999.jpeg">
     <img src="assets/images/Little.jpeg">
-    <img src="assets/images/Greg and a cup of joe.jpeg">
+    <img src="assets/images/Over the rainbow on the Huron River near his house in Ann Arbor - where Greg liked to walk with Sarah and friends.jpeg">
   </div>
   <div class="column">
-    <img src="assets/images/Little.jpeg">
+    <img src="assets/images/Racing Sarah in the stadium at Olympia, Summer 2003.jpeg">
     <img src="assets/images/Over the rainbow on the Huron River near his house in Ann Arbor - where Greg liked to walk with Sarah and friends.jpeg">
     <img src="assets/images/Racing Sarah in the stadium at Olympia, Summer 2003.jpeg">
     <img src="assets/images/Sitting with Sarah in the theater at Epidaurus, Summer 2003.jpeg">
-    <img src="assets/images/With Greg, Sarah and Ahmed.jpeg">
-    <img src="assets/With his dad and Sarah in his John Lennon phase in Sevilla, June 2007.jpeg">
+    <img src="assets/images/With Ann and Sarah, May 2022.jpeg">
+    <img src="assets/With Greg, Sarah and Ahmed.jpeg">
   </div>
+  <div class="column">
+    <img src="assets/images/With his dad and Sarah in his John Lennon phase in Sevilla, June 2007.jpeg">
+    <img src="assets/images/With Sarah and Ann.jpeg">
+    <img src="assets/images/With Sarah in Lisbon, June 2003.jpeg">
+    <img src="assets/images/Sitting with Sarah in the theater at Epidaurus, Summer 2003.jpeg">
+    <img src="assets/images/With Sarah in Pompeii, Sept 1999.jpeg">
+    <img src="assets/With Sarah in the Garden of Great Grandfather Smyrnios's house in Yioryitsion, Sparta, Summer 2003.jpeg">
+   </div>
 </div>
