@@ -11,36 +11,36 @@ show_tile: false
 
 <div class="row"> 
   <div class="column">
-    <img src="assets/images/Little.jpg">
-    <img src="assets/images/Little.jpg">
-    <img src="assets/images/Greg and a cup of joe.jpg">
-    <img src="assets/images/Little.jpg">
-    <img src="assets/images/Little.jpg">
-    <img src="assets/images/Greg and a cup of joe.jpg">
+    <img src="assets/images/Little.jpeg">
+    <img src="assets/images/Little.jpeg">
+    <img src="assets/images/Greg and a cup of joe.jpeg">
+    <img src="assets/images/Little.jpeg">
+    <img src="assets/images/Little.jpeg">
+    <img src="assets/images/Greg and a cup of joe.jpeg">
   </div>
   <div class="column">
-    <img src="assets/images/Little.jpg">
-    <img src="assets/images/Little.jpg">
-    <img src="assets/images/Greg and a cup of joe.jpg">
-    <img src="assets/images/Little.jpg">
-    <img src="assets/images/Little.jpg">
-    <img src="assets/images/Greg and a cup of joe.jpg">
+    <img src="assets/images/Little.jpeg">
+    <img src="assets/images/Little.jpeg">
+    <img src="assets/images/Greg and a cup of joe.jpeg">
+    <img src="assets/images/Little.jpeg">
+    <img src="assets/images/Little.jpeg">
+    <img src="assets/images/Greg and a cup of joe.jpeg">
   </div> 
   <div class="column">
-    <img src="assets/images/Little.jpg">
-    <img src="assets/images/Little.jpg">
-    <img src="assets/images/Greg and a cup of joe.jpg">
-    <img src="assets/images/Little.jpg">
-    <img src="assets/images/Little.jpg">
-    <img src="assets/images/Greg and a cup of joe.jpg">
+    <img src="assets/images/Little.jpeg">
+    <img src="assets/images/Little.jpeg">
+    <img src="assets/images/Greg and a cup of joe.jpeg">
+    <img src="assets/images/Little.jpeg">
+    <img src="assets/images/Little.jpeg">
+    <img src="assets/images/Greg and a cup of joe.jpeg">
   </div>
   <div class="column">
-    <img src="assets/images/Little.jpg">
-    <img src="assets/images/Little.jpg">
-    <img src="assets/images/Greg and a cup of joe.jpg">
-    <img src="assets/images/Little.jpg">
-    <img src="assets/images/Little.jpg">
-    <img src="assets/images/Greg and a cup of joe.jpg">
+    <img src="assets/images/Little.jpeg">
+    <img src="assets/images/Little.jpeg">
+    <img src="assets/images/Greg and a cup of joe.jpeg">
+    <img src="assets/images/Little.jpeg">
+    <img src="assets/images/Little.jpeg">
+    <img src="assets/images/Greg and a cup of joe.jpeg">
   </div>
 </div>
 
