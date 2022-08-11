@@ -21,7 +21,7 @@ show_tile: false
   <div class="column">
     <img src="assets/images/Greg (somewhere in Maryland) showing that fishing expeditions sometimes do pay off copy.jpeg">
     <img src="assets/images/Greg and a cup of joe.jpeg">
-    <img src="assets/images/Greg and a cup of joe.jpeg">
+    <img src="assets/images/With Sarah and Ann.jpeg">
     <img src="assets/images/Greg and Sarah Christmas 2019.jpeg">
     <img src="assets/images/Greg and Sarah on Mackinac Island Aug 2015.jpeg">
     <img src="assets/images/Greg Thanksgiving.JPEG">
@@ -43,7 +43,6 @@ show_tile: false
     <img src="assets/With Greg, Sarah and Ahmed.jpeg">
   </div>
   <div class="column">
-    <img src="assets/images/With Sarah and Ann.jpeg">
     <img src="assets/images/With Sarah in Lisbon, June 2003.jpeg">
     <img src="assets/images/Sitting with Sarah in the theater at Epidaurus, Summer 2003.jpeg">
     <img src="assets/images/With Sarah in Pompeii, Sept 1999.jpeg">
