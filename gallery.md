@@ -12,34 +12,34 @@ show_tile: false
 <div class="row"> 
   <div class="column">
     <img src="assets/images/Little.jpg">
-    <img src="assets/images/Greg and Sarah on Mackinac Island Aug 2015 - "best vacation ever".jpg">
+    <img src="assets/images/Little.jpg">
     <img src="assets/images/Greg and a cup of joe.jpg">
     <img src="assets/images/Little.jpg">
-    <img src="assets/images/Greg and Sarah on Mackinac Island Aug 2015 - "best vacation ever".jpg">
+    <img src="assets/images/Little.jpg">
     <img src="assets/images/Greg and a cup of joe.jpg">
   </div>
   <div class="column">
     <img src="assets/images/Little.jpg">
-    <img src="assets/images/Greg and Sarah on Mackinac Island Aug 2015 - "best vacation ever".jpg">
+    <img src="assets/images/Little.jpg">
     <img src="assets/images/Greg and a cup of joe.jpg">
     <img src="assets/images/Little.jpg">
-    <img src="assets/images/Greg and Sarah on Mackinac Island Aug 2015 - "best vacation ever".jpg">
+    <img src="assets/images/Little.jpg">
     <img src="assets/images/Greg and a cup of joe.jpg">
   </div> 
   <div class="column">
     <img src="assets/images/Little.jpg">
-    <img src="assets/images/Greg and Sarah on Mackinac Island Aug 2015 - "best vacation ever".jpg">
+    <img src="assets/images/Little.jpg">
     <img src="assets/images/Greg and a cup of joe.jpg">
     <img src="assets/images/Little.jpg">
-    <img src="assets/images/Greg and Sarah on Mackinac Island Aug 2015 - "best vacation ever".jpg">
+    <img src="assets/images/Little.jpg">
     <img src="assets/images/Greg and a cup of joe.jpg">
   </div>
   <div class="column">
     <img src="assets/images/Little.jpg">
-    <img src="assets/images/Greg and Sarah on Mackinac Island Aug 2015 - "best vacation ever".jpg">
+    <img src="assets/images/Little.jpg">
     <img src="assets/images/Greg and a cup of joe.jpg">
     <img src="assets/images/Little.jpg">
-    <img src="assets/images/Greg and Sarah on Mackinac Island Aug 2015 - "best vacation ever".jpg">
+    <img src="assets/images/Little.jpg">
     <img src="assets/images/Greg and a cup of joe.jpg">
   </div>
 </div>
