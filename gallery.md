@@ -23,7 +23,7 @@ show_tile: false
     <img src="assets/images/Greg and a cup of joe.jpeg">
     <img src="assets/images/Greg and a cup of joe.jpeg">
     <img src="assets/images/Greg and Sarah Christmas 2019.jpeg">
-    <img src="assets/images/Greg and Sarah on Mackinac Island Aug 2015 - "best vacation ever".jpeg">
+    <img src="assets/images/Greg and Sarah on Mackinac Island Aug 2015.jpeg">
     <img src="assets/images/Greg Thanksgiving.JPEG">
   </div> 
   <div class="column">
@@ -36,14 +36,13 @@ show_tile: false
   </div>
   <div class="column">
     <img src="assets/images/Racing Sarah in the stadium at Olympia, Summer 2003.jpeg">
-    <img src="assets/images/Over the rainbow on the Huron River near his house in Ann Arbor - where Greg liked to walk with Sarah and friends.jpeg">
+    <img src="assets/images/With his dad and Sarah in his John Lennon phase in Sevilla, June 2007.jpeg">
     <img src="assets/images/Racing Sarah in the stadium at Olympia, Summer 2003.jpeg">
     <img src="assets/images/Sitting with Sarah in the theater at Epidaurus, Summer 2003.jpeg">
     <img src="assets/images/With Ann and Sarah, May 2022.jpeg">
     <img src="assets/With Greg, Sarah and Ahmed.jpeg">
   </div>
   <div class="column">
-    <img src="assets/images/With his dad and Sarah in his John Lennon phase in Sevilla, June 2007.jpeg">
     <img src="assets/images/With Sarah and Ann.jpeg">
     <img src="assets/images/With Sarah in Lisbon, June 2003.jpeg">
     <img src="assets/images/Sitting with Sarah in the theater at Epidaurus, Summer 2003.jpeg">
