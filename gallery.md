@@ -8,13 +8,6 @@ image: null
 author: null
 show_tile: false
 ---
-<head>
-<style type="text/css">
-<!--
-.tab { text-indent: 40px; }
--->
-</style>
-</head>
 
 <div class="row"> 
   <div class="column">
