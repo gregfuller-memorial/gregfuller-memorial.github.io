@@ -51,17 +51,19 @@ show_tile: false
 </div>
 
 <span class="image fit">
-		<img src="assets/images/students_mentored_by_greg.png" alt=""/>
+		<img src="assets/images/gbody.png" alt=""/>
 </span>		
+
+<!-- John Kim Lab Members -->
+<h2 id="content">Rememberences ~ Students mentored by Greg</h2>
+
+<span class="image fit">
+		<img src="assets/images/students_mentored_by_greg.png" alt=""/>
+</span>
 
 <div class="box">
 	<p align="justify">Greg was not your typical guy…he was a truly phenomenal person. He was quiet and kept to himself but when he had something to say it was always an insightful and well thought out comment. If he had something to say, you wanted to listen. Having worked with him in John Kim’s lab for six years, I can say he was truly a brilliant scientist, a meticulous worker, and dedicated to his work and his project. He had the rare ability to draw from various scientific fields and think about his project from all these different angles. Despite the fact that we worked in lab conducting scientific research each day, some of my favorite memories with him involve conversations that weren’t about science at all. I remember one particular Friday evening after a long week of work, we were wrapping up and somehow Greg and I got into a discussion about philosophy. We sat in lab after with no more science left to do that night and just delved into differing perspectives on morality. Greg was thrilled to be discussing Hume, Kant, Hobbes, and other philosophers. His ability to cite philosophers’ work just as easily as he could cite the work of biologists studying phase separation was truly impressive. It is a tragedy to have lost such an immensely brilliant person all too soon. But more than brilliant, he was deeply kind, generous, and devoted to the people he cared about. This loss is tragic and I will truly miss him.</p>
 	<b>—Jessie Kirshner</b>
-</div>
-
-<div class="box">
-	<p align="justify">I met Greg in the fall of 2017 at the Kim Lab, and I am so proud to call him my mentor. This was my very first research experience, and as such I was naturally very nervous. But luckily, I was assigned to one of the MOST detail oriented people I know, so every step that came naturally to Greg was clearly communicated and spoken to me. As I streaked his plates, and struggled to read some of the neatest handwriting I have ever seen, I began my scientific journey. Over the course of the next four years, I got to know Greg more. I learned about his love for yeast and coffee, and his walks around the UTL to calm him down when experiments and data are difficult make out. However, there is one thing that I will never understand, and that is how the same person with the most organized and clean bench in lab, was also the owner of the desk cluttered with papers, post-its, and coffee cups just a few feet away. Though my time with Greg has been limited, he was nothing short of a caring, passionate, knowledgeable, and amazing mentor and he will be missed immensely.</p>
-	<b>—Joy Huang</b>
 </div>
 		
 <div class="box">
@@ -91,7 +93,30 @@ show_tile: false
 	<p align="justify">Not only was Greg a wonderful person, but he was a graduate student and scientist we all admired and wished we could emulate. His unwavering and deep humility marked everything he did. He didn’t speak much in lab meetings, but every suggestion he gave was thoughtful, sharp, and usually ended up panning out for the experimenter. His independence of thought, the fierce but gentle determination to do his experiments the way he thought they should be done, the comprehensive way he understood his literature, and the way he could teach himself anything (from analyzing his own RNA-seq data to designing new ways to quantifying co-localization to pioneering kinetics assays in our lab) left us all in awe every day. What I admired most of all was Greg did science because he loved science – and you felt that love.</p>
 	<p align="justify">I am heartbroken that the character and wit that was Greg is no longer walking this world. Not only are we deprived of all the scientific contributions he would have made, we have lost everything Greg contributed by being a wonderful lab mate, friend, and person. My deepest sympathies go to his family and friends. It has been a profound honor and privilege to know you, Greg. We miss you.</p>
 	<b>—Rebecca Tay</b>
-</div>		
+</div>	
+
+<div class="box">
+	<p align="justify">I met Greg during my lab rotation in John Kim’s lab prior to the start of my first year at Johns Hopkins and got to know him as our morning lab shifts, implemented upon COVID-19, overlapped. With our lab benches positioned diagonally, I would usually catch a glimpse of Greg’s head amidst the reagents on shelves above his lab bench. I found comfort in and drew inspiration from his steadfast presence on such early and quiet mornings. He would always meticulously clean his lab bench – so much so that the surface coating has long worn off – and would conduct innovative and such well-thought-out experiments with diligence.</p>
+	<p align="justify">It was during one of these morning shifts that Greg casually mentioned he ran his first half marathon. He had recently taken up running, and as an avid runner myself, we would talk a lot about running: favorite routes, nutrition, training, and races. Recalling my first half marathon experience, I asked Greg how he had felt after running such a long distance. Not surprisingly, Greg’s eyes lit up as a huge grin grew across his face and he fervently exclaimed, “It was amazing!”. Shortly afterwards, he completed the half marathon at the Baltimore Running Festival at a spectacularly swift pace and started training for the full marathon distance.</p>
+	<p align="justify">In addition to Greg’s keen scientific insight and infectious enthusiasm for everything he pursued, he was also warm-hearted and generous. When I was applying for the NRSA fellowship, Greg not only gave me valuable advice and shared the reviewer comments on his application, but also provided me with major application components. As the only person doing computational work in John’s lab, I felt especially heard by Greg, the only person doing yeast work in John’s lab. I think Greg understood how lonely it could get at times, and he always made sure to follow up with me after my lab meeting presentations and Progress Reports.</p>
+	<p align="justify">I feel incredibly fortunate to have met Greg and have had the opportunity to observe his extraordinarily promising career. My thoughts are with his family and fiancé, and his friends within and outside of the CMDB community.</p>
+	<b>—Margaret Starostik</b>
+</div>	
+
+<div class="box">
+	<p align="justify">Greg Fuller was a brilliant and brave scientist. Greg's work on the characterization of G bodies has provided the very first mechanistic insight into the functional relevance of phase separated condensates in cells experiencing stressful environmental conditions. Greg was unafraid of tackling challenging problems. He was innovative and resourceful. He had the unique ability of being extremely detail-oriented, while never forgetting how his research added to the existing big scientific picture. The breadth and depth of Greg's scientific knowledge was immense, but so was his inquisitiveness and sense of wonder.</p>
+	<p align="justify">Greg was an ideal scientific colleague. He would often share relevant and interesting (and sometimes whacky) papers with the lab. He would conversationally ask me about my ongoing experiments and would be genuinely ready to commiserate or celebrate, as the situation warranted. Although Greg was often a lone yeast person in our worm world, his invaluable suggestions and advice would help me out of tight science corners. His excitement for doing science was very infectious. I was part of several sub group meetings where Greg would propose a preliminary experiment to test a hypothesis, which would then lead to an enthusiastic brainstorming session among all of us. Then Greg's eyes would light up as the discussion, that he induced, would nudge him to propose the perfect experiment, which he would subsequently execute perfectly too. Greg took great pride in the achievements of his trainees. He trained them to be independent scientists, just as he was. Greg's presentation during every lab meeting was reflective of his scientific acumen and sincere diligence, and almost always contained a nugget of his quirky sense of humor. There was one memorable lab meeting where Greg included a Christmas themed video of his yeast cells, that expressed green and red fluorescent proteins, mating to the tunes of the Nutcracker Ballet.</p>
+	<p align="justify">I will always remember Greg as a determined and passionate human being. He found joy in the most mundane accomplishments (for instance, acquiring rewashable glass pipettes or finding the perfect accessories for Buddy, his yeast plushie). Greg pursued every objective in his life with inexhaustible doggedness. He was kind, warm hearted, and thoughtful. Although we never hung out much outside of work, he surprised me with a bar of my favorite chocolate as a thank you gift for editing his paper.</p>
+	<p align="justify">I am very grateful I got to coexist in the same space as Greg for all this time. It's hard to believe that I will never be able to share a nerdy joke with Greg or take his advice ever again. Greg has left an indelible mark on my life and I will dearly miss him.</p>
+	<b>—Himani Galagali</b>
+</div>	
+
+<div class="box">
+	<p align="justify">Greg was both a friend and an amazing scientist to work with. </p>
+	<p align="justify">Years of working beside Greg has shaped the scientist I’ll be for the rest of my life, but even that time was not enough to get to know him as fully as I wish I could. When his personality shone, it was clear he was earnest, enthusiastic, and kind. I loved late evenings in lab chatting with him about life and the future, and getting to see Ann when she dropped by to keep us all company. His love for the people in his life was so, so clear.</p>
+	<p align="justify">In science, not only can I strive to live up to his example in bench work, but his willingness to help others design experiments, develop analysis methods, and troubleshoot data will never be forgotten. We will miss him so much, and hope that he knows the impact he left on us all.</p>
+	<b>—Mindy Clark</b>
+</div>	
 		
 <hr class="major" />
 
