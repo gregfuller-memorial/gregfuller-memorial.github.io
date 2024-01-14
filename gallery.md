@@ -22,7 +22,6 @@ show_tile: false
     <img src="assets/images/collage09.png">
     <img src="assets/images/collage10.png">
     <img src="assets/images/collage11.png">
-    <img src="assets/images/collage12.png">
     <img src="assets/images/border01.png">
   </div>
 </div>
