@@ -44,7 +44,6 @@ show_tile: false
   </div>
   <div class="column">
     <img src="assets/images/With Sarah in Lisbon, June 2003.jpeg">
-    <img src="assets/images/Sitting with Sarah in the theater at Epidaurus, Summer 2003.jpeg">
     <img src="assets/images/With Sarah in Pompeii, Sept 1999.jpeg">
     <img src="assets/With Sarah in the Garden of Great Grandfather Smyrnios's house in Yioryitsion, Sparta, Summer 2003.jpeg">
    </div>
