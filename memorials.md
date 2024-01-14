@@ -30,7 +30,7 @@ show_tile: false
 <h2 id="content">Rememberences ~ Students mentored by Greg</h2>
 
 <span class="image fit">
-		<img src="assets/images/JohnKim.png" alt=""/>
+		<img src="assets/images/students_mentored_by_greg.png" alt=""/>
 </span>
 
 <div class="box">
@@ -39,11 +39,21 @@ show_tile: false
 </div>
 
 <div class="box">
+	<p align="justify">I met Greg in the fall of 2017 at the Kim Lab, and I am so proud to call him my mentor. This was my very first research experience, and as such I was naturally very nervous. But luckily, I was assigned to one of the MOST detail-oriented people I know, so every step that came naturally to Greg was clearly communicated and spoken to me. As I streaked his plates, and struggled to read some of the neatest handwriting I have ever seen, I began my scientific journey. Over the course of the next four years, I got to know Greg more. I learned about his love for yeast and coffee, and his walks around the UTL to calm him down when experiments and data are difficult make out. However, there is one thing that I will never understand, and that is how the same person with the most organized and clean bench in lab was also the owner of the desk cluttered with papers, post-its, and coffee cups just a few feet away. Though my time with Greg has been limited, he was nothing short of a caring, passionate, knowledgeable, and amazing mentor and he will be missed immensely.</p>
+	<b>—Joy Huang</b>
+	
+</div>
+
+<div class="box">
 	<p align="justify">As an undergraduate 3 years ago who was always nervous about her position/abilities in lab, I deeply appreciated Greg's calming presence. Greg was the pinnacle of "in his lane and flourishing." He was one of the most consistently hardworking and kind graduate students I have run into over the years, and I always knew that I could turn to him if I had a pressing question or minor crisis in lab. My deepest condolences to his friends and family.</p>
 	<b>—Connie Xiao</b>
 	
 </div>
-		
+
+<span class="image fit">
+		<img src="assets/images/students_mentored_by_greg.png" alt=""/>
+</span>		
+
 <div class="box">
 	<p align="justify">Greg was not your typical guy…he was a truly phenomenal person. He was quiet and kept to himself but when he had something to say it was always an insightful and well thought out comment. If he had something to say, you wanted to listen. Having worked with him in John Kim’s lab for six years, I can say he was truly a brilliant scientist, a meticulous worker, and dedicated to his work and his project. He had the rare ability to draw from various scientific fields and think about his project from all these different angles. Despite the fact that we worked in lab conducting scientific research each day, some of my favorite memories with him involve conversations that weren’t about science at all. I remember one particular Friday evening after a long week of work, we were wrapping up and somehow Greg and I got into a discussion about philosophy. We sat in lab after with no more science left to do that night and just delved into differing perspectives on morality. Greg was thrilled to be discussing Hume, Kant, Hobbes, and other philosophers. His ability to cite philosophers’ work just as easily as he could cite the work of biologists studying phase separation was truly impressive. It is a tragedy to have lost such an immensely brilliant person all too soon. But more than brilliant, he was deeply kind, generous, and devoted to the people he cared about. This loss is tragic and I will truly miss him.</p>
 	<b>—Jessie Kirshner</b>
