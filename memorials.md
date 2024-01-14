@@ -173,7 +173,7 @@ show_tile: false
 <h2 id="content">Rememberances ~ Science Colleagues and Friends</h2>
 
 <div class="box">
-	<p align="justify">I was a bored with Greg for a few years. It was clear to me that in addition to how awesome he was in lab that he was an all around great person who cared for all the grad students in our program. I'm going to miss randomly running into Greg in the halls, he always seemed so happy to be here and brightened our days!</p>
+	<p align="justify">I was a biorep with Greg for a few years. It was clear to me that in addition to how awesome he was in lab that he was an all around great person who cared for all the grad students in our program. I'm going to miss randomly running into Greg in the halls, he always seemed so happy to be here and brightened our days!</p>
 	<p><b>—Caitlin Pozmanter, Ph.D., former CMDB Graduate Student</b></p>
 </div>
 
