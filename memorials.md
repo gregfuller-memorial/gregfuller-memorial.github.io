@@ -27,7 +27,7 @@ show_tile: false
 		</header>
 
 <!-- John Kim Lab Members -->
-<h2 id="content">John Kim Lab Members</h2>
+<h2 id="content">Rememberences ~ Students mentored by Greg</h2>
 
 <span class="image fit">
 		<img src="assets/images/JohnKim.png" alt=""/>
