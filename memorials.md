@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Memorials
-landing-title: 'Memorials'
+landing-title: 'Rememberances'
 nav-menu: true
 description: null
 image: null
@@ -23,7 +23,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Memorials</h1>
+			<h1>Rememberances</h1>
 		</header>
 
 <img src="assets/images/border01.png" alt="" align="center" width="100%" style="margin: 8px 0px -3px 15px">
@@ -51,7 +51,7 @@ show_tile: false
 <img src="assets/images/border01.png" alt="" align="center" width="100%" style="margin: 8px 0px -3px 15px">
 
 <!-- John Kim Lab Members -->
-<h2 id="content">Rememberences ~ Students Mentored by Greg</h2>
+<h2 id="content">Students Mentored by Greg</h2>
 
 <span class="image fit">
 		<img src="assets/images/students_mentored_by_greg.png" alt=""/>
@@ -81,7 +81,7 @@ show_tile: false
 <img src="assets/images/border01.png" alt="" align="center" width="100%" style="margin: 8px 0px -3px 15px">
 
 <!-- John Kim Lab Members -->
-<h2 id="content">Rememberences ~ Friends in the Kim Lab</h2>
+<h2 id="content">Friends in the Kim Lab</h2>
 
 <span class="image fit">
 		<img src="assets/images/JohnKim.png" alt=""/>
@@ -168,15 +168,13 @@ show_tile: false
 	<p align="justify">With deepest gratitude,</p>
 	<b>John</b>
 </div>	
-
-<img src="assets/images/flower.png" alt="" align="center" width="50%" style="margin: 8px 0px -3px 15px">
 		
 <hr class="major" />
 
 <img src="assets/images/border01.png" alt="" align="center" width="100%" style="margin: 8px 0px -3px 15px">
 
 <!-- Science Colleagues and Friends -->
-<h2 id="content">Rememberances ~ Science Colleagues and Friends</h2>
+<h2 id="content">Science Colleagues and Friends</h2>
 
 <div class="box">
 	<p align="justify">I was a biorep with Greg for a few years. It was clear to me that in addition to how awesome he was in lab that he was an all around great person who cared for all the grad students in our program. I'm going to miss randomly running into Greg in the halls, he always seemed so happy to be here and brightened our days!</p>
