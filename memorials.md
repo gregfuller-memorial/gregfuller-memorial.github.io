@@ -27,7 +27,7 @@ show_tile: false
 		</header>
 
 <!-- Family and Friends -->
-<img src="assets/images/border01.png" alt="" align="center" width="40%" style="margin: 8px 0px -3px 15px">
+<img src="assets/images/border01.png" alt="" align="center" width="80%" style="margin: 8px 0px -3px 15px">
 <h2 id="content">Family and Friends</h2>
 
 <div class="box">
