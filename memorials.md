@@ -80,7 +80,7 @@ show_tile: false
 <h2 id="content">Rememberences ~ Friends in the Kim Lab</h2>
 
 <span class="image fit">
-		<img src="assets/images/students_mentored_by_greg.png" alt=""/>
+		<img src="assets/images/JohnKim.png" alt=""/>
 </span>
 
 <div class="box">
