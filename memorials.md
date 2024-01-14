@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Memorials
+title: Rememberances
 landing-title: 'Rememberances'
 nav-menu: true
 description: null
