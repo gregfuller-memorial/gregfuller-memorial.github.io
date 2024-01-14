@@ -164,6 +164,8 @@ show_tile: false
 	<p align="justify">With deepest gratitude,</p>
 	<b>John</b>
 </div>	
+
+<img src="assets/images/flower.png" alt="" align="center" width="50%" style="margin: 8px 0px -3px 15px">
 		
 <hr class="major" />
 
