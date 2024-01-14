@@ -12,6 +12,8 @@ show_tile: false
 <div class="row"> 
   <div class="column">
     <img src="assets/images/border01.png">
+    <img src="assets/images/collage00.png">
+    <img src="assets/images/collage01.png">
     <img src="assets/images/collage02.png">
     <img src="assets/images/collage03.png">
     <img src="assets/images/collage04.png">
