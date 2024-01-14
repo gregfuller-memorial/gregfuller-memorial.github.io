@@ -23,12 +23,7 @@ show_tile: false
     <img src="assets/images/collage10.png">
     <img src="assets/images/collage11.png">
     <img src="assets/images/collage12.png">
-    %<img src="assets/images/Ann and Greg at their Hopkins Graduation, May 2015.jpeg">
-    %<img src="assets/images/At fountain in Athens with his family, Summer 2003.jpeg">
-    %<img src="assets/images/At Mt. Vesuvius, Sept 1999.jpeg">
-    %<img src="assets/images/At the theater of Dionysus with Uncle, John Stepanchuk, Sarah and his dad, summer 2003 .jpeg">
-    %<img src="assets/images/Chasing Pigeons at the Plaza of the Duomo, Milan, Sept 1999.jpeg">
-    %<img src="assets/images/Cooling off in ancestral Sparta, Summer 2003 .jpeg">
+    <img src="assets/images/border01.png">
   </div>
   <div class="column">
     <img src="assets/images/Greg (somewhere in Maryland) showing that fishing expeditions sometimes do pay off copy.jpeg">
