@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Gallery
-landing-title: 'Gallery'
+title: Photo Gallery
+landing-title: 'Photo Gallery'
 nav-menu: true
 description: null
 image: null
