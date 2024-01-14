@@ -55,7 +55,7 @@ show_tile: false
 </span>		
 
 <!-- John Kim Lab Members -->
-<h2 id="content">Rememberences ~ Students mentored by Greg</h2>
+<h2 id="content">Rememberences ~ Friends in the Kim Lab</h2>
 
 <span class="image fit">
 		<img src="assets/images/students_mentored_by_greg.png" alt=""/>
