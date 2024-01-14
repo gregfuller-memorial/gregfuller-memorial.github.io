@@ -171,67 +171,45 @@ show_tile: false
 
 <!-- Faculty -->
 <h2 id="content">Rememberances ~ Science Colleagues and Friends</h2>
-<div class="box">
-	<p align="justify">Greg was an exceptional researcher with an incredible depth of knowledge that sprung from a true love of science. Of all the pre-qualifying exams I have participated in, Greg's was unquestionably the most challenging for me, personally. Normally the exam is an exercise in testing the boundaries of a student's knowledge, but for Greg's, it was an exercise in testing my own. I struggled to find even the smallest gap in his knowledge as we dove deeper and deeper into questions of metabolism, and reached the limits of my own understanding. For many students, the pre-qualifying exam is an arduous prerequisite that must be suffered through to move on to their graduate work, but for Greg, it was a fulfilling opportunity to discuss science. I remember clearly how when I asked him about the Kreb's cycle, Greg smiled broadly and discussed it with a passionate fervor I doubt Kreb himself would have given to the topic.</p>
-	<p align="justify">It was obvious that thinking and talking about science was his life's passion, and I am truly devastated that this luminous fire has been extinguished so soon. Greg pushed the boundaries of science, and saw into the darkness further than most. He will be missed.</p>
-	<b>—Andrew Gordus</b>
-</div>
 
-<div class="box">
-	<p align="justify">Greg was an amazing scientist and colleague. Soft-spoken, Greg made every word count, with deep, incisive descriptions of his science and suggestions for others. His awkward, yet truly genuine, half-smile, half-nod, half-wave always lightened my day. His tremendous mind coupled with his immense humility made him one of my favorite people in the department. He was a true scientist and a thoughtful colleague. We will all miss Greg very much.</p>
-	<b>—Bob Johnston</b>
-</div>
-		
-<div class="box">
-	<p align="justify">Greg and I first met almost seven years ago, before he joined our CMDB graduate program. He contacted me about using piece of equipment in my lab, and we started a conversation while he was running his samples. I still remember this interaction after a number of years because I was immediately struck by Greg’s intellect, maturity, depth and warmth. Over the following years, it became very obvious that Greg was not only an unassuming, interesting and pleasant person to chat with, but that he was a highly gifted scientist. His work in John Kim’s lab on G bodies has been absolutely spectacular. Greg’s presentations (during progress reports and local meetings) were something that I was always looking forward to. He had a talent for setting off a scientific firework without any bombast or overselling, letting his beautiful data and his sharp conclusions speak for themselves. Greg clearly had a bright career in front of him. It is heartbreaking to see this path cut short so tragically. My thoughts are, first and foremost, with his family and his fiancé, with his friends inside and outside our department, with his lab mates and with his mentor John Kim.</p>
-	<b>—Christian Kaiser</b>
-</div>
-		
-<div class="box">
-	<p align="justify">I have known Greg from the beginning of his Ph.D period. Greg rotated in my lab and worked on a phase separating RNA binding protein, FUS. What I saw in Greg was an extremely careful scientist who performs many more control experiments than expected, a critical thinker who doesn't come to quick conclusions, a humble student who intently listens and takes in others' messages. Although it was only for eight weeks, Greg was a remarkable scholar that my group members admired and a gentle and kind friend who we adored. The second phase of my encounter with Greg was through his annual thesis meetings for the past four years or so. I was truly privileged to be one of his thesis committee members from the beginning. I got to watch Greg make new discoveries, overcome insurmountable barriers in conducting experiment, achieve far beyond expectations both in published and the unpublished work and grow up to be a stellar scientist. Greg's thesis meetings were always the special annual event that I looked forward to attending because I got to see Greg's beautiful mastery of science being formed, shaped and perfected into an incredible piece of mater piece. Despite his amazing accomplishment, Greg always demonstrated his humility as a scientist, always, always taking in advice, taking detailed notes throughout the thesis meetings while carefully evaluating his work. I miss Greg and his outstanding thesis meetings, the impeccable scientist who would have made many more exciting discoveries and most of all, the calm and gentle smiles he always carried around. Greg and his many accomplishments will be remembered and cherished forever.</p>
-	<b>—Sua Myong</b>
-</div>
-
-<div class="box">
-	<p align="justify">Greg has been a wonderful TA for the Epigenetics course John and I co-teach. It has been such a pleasure to work with him and get to know him. Greg is super smart, very reliable, and always a joy to work with. It is such an honor to have known and worked with Greg! We will miss him, very, very much---</p>
-	<b>—Xin Chen</b>
-</div>
-		
-<!-- Students -->
-<h2 id="content">Students, Postdocs, and Staff</h2>
 <div class="box">
 	<p align="justify">I was a bored with Greg for a few years. It was clear to me that in addition to how awesome he was in lab that he was an all around great person who cared for all the grad students in our program. I'm going to miss randomly running into Greg in the halls, he always seemed so happy to be here and brightened our days!</p>
-	<p><b>—Caitlin Pozmanter</b></p>
+	<p><b>—Caitlin Pozmanter, Ph.D., former CMDB Graduate Student</b></p>
 </div>
 
 <div class="box">
 	<p align="justify">Being in a different lab, and different year in grad school I didn't know Greg super well. But there were times when I would need to visit the Kim lab for help and he was always willing. He had a really positive attitude, a sweet smile, and a kind disposition. He and his family are in my thoughts.</p>
-	<p><b>—Caity Anderson</b></p>
+	<p><b>—Caity Anderson, Ph.D., former CMDB Graduate Student</b></p>
 </div>
 
 <div class="box">
 	<p align="justify">I was introduced to Greg's brilliance when I rotated in the Kim lab last year and I saw first hand how meticulous he was with his project. I could tell he was thinking about his work more than anyone else and was completely engaged. It was motivational; he became someone I could look up to at a distance and model my work ethic after. In lab meetings during my rotation, he was always inquisitive and kind including with me, knowing that I knew so little. I really appreciated that. He will be truly missed.</p>
-	<p><b>—Gemechu Mekonnen</b></p>
+	<p><b>—Gemechu Mekonnen, CMDB Graduate Student</b></p>
 </div>
 		
 <div class="box">
 	<p align="justify">Hello, I am a classmate of Greg. I am sad that he is no longer with us. He was smart, humble, and helpful to everyone. Our department will miss him greatly.</p>
-	<p><b>—Jee Min Kim</b></p>
+	<p><b>—Jee Min Kim, Ph.D., former CMDB Graduate Student</b></p>
 </div>	
-	
+
 <div class="box">
 	<p align="justify">Greg was a good friend and great scientific mind. He single handedly introduced me to yeast science when I embarked on a y2h journey a few years ago. No matter how busy he was, he always had time to answer my silly questions or explain some cryptic protocol points for me. He may not remember this, but we made a bet at the end of first year when we joined our neighboring labs together, that the last to graduate owed the other a six pack. Well, as far as i'm concerned, given his prolific achievements Greg deserved that six pack a few years ago. Greg was a role model and a quiet leader for us both academically and in his life outside of school. He had a kind and generous spirit, and his gentle patience, deep care and good humor will be missed across the floor.</p>
-	<p><b>—Jocelyn Haversat</b></p>
+	<p><b>—Jocelyn Haversat, CMDB Graduate Student</b></p>
 </div>
 		
 <div class="box">
 	<p align="justify">During my rotation with the Taylor lab, I reached out the Greg to ask him about G-bodies, as they were really fascinating to me. He was super enthusiastic and allowed me to take some of his time one evening to explain his work and how I could potentially look at G-bodies in mammalian cells. Although it did not come to fruition, Greg became a role model for how to interact with other students; with respect, compassion, and enthusiasm. You will be missed.</p>
-	<p><b>—Justin Mirazee</b></p>
+	<p><b>—Justin Mirazee, CMDB Graduate Student</b></p>
 </div>
-		
+
+<div class="box">
+	<p align="justify">Rest in peace, Greg. Just a few days ago, we were talking about latest findings and future research plans. You had ideas, hopes and dreams, waiting for you to realize. I still remember your fantastic role as Steve Harvey in our 4th year retreat skit. I also vividly recall you were always the first to finish exams. With a shared goal, I imagined we would stay in touch for the decades to come. So long, my friend. I will miss you. Xiuqi, July 12, 2022</p>
+	<p><b>—Xiuqi Chen, CMDB Graduate Student</b></p>	
+</div>
+
 <div class="box">
 	<p align="justify">While Greg and I were not very close, he was always a positive light on the third floor of UTL. No matter what he was working on, if I had a question, he was excited to chat and give an answer. It was clear that Greg was heavily invested in his work and was on-track to do even greater things.</p>
-	<p><b>—Matthew Hurlock</b></p>	
+	<p><b>—Matthew Hurlock, CMDB Graduate Student</b></p>	
 </div>
 		
 <div class="box">
@@ -239,30 +217,97 @@ show_tile: false
 	<p align="justify">During the interview weekend before I was even a student here, Greg displayed an empathy that left an impression. The interview process, with the frantic shuttling between faculty offices for interviews, student and program presentations in various locations, and the insane load of new people with whom I had to interact, was difficult and emotionally exhausting. In the midst of it all, I had found an opportunity to sit quietly and collect myself. I looked up to see Greg hovering nearby, and he asked if I was doing okay. He said that he understood if I just needed a moment to myself but he also wanted to make sure that I was not being ignored and left out. When I replied that I was trying to get a quiet minute without engagement, he completely understood and gave me that space. That level of care and understanding reflected very well on the character of students in this program and influenced my ultimate decision to come here.</p>
 	<p align="justify">Another time, I was walking down the hall of UTL clearly distraught over the continued failure of an experiment I had struggled with for many months. Greg stopped me to ask how things were. Upon hearing of my troubles, he immediately invited me up to his bench to talk it through. With his singular patience and attentiveness, he guided me through the process so that I could overcome the hurdles and push forward.</p>
 	<p align="justify">I will miss Greg terribly. He was genuinely one of the good ones. I think this program generally is, and I personally am, better for having experienced him and deprived for having lost him.</p>
-	<p><b>—Matthew Pavesic</b></p>	
+	<p><b>—Matthew Pavesic, CMDB Graduate Student</b></p>	
+</div>
+
+<div class="box">
+	<p align="justify">I remember watching Greg's progress report in my first year and being impressed by the amount of work that he'd already accomplished on his project, how clear and straightforward his slides were, and how calmly he presented all of it. Later that year, when I was scrambling to organize recruitment and needed more students to take recruits to dinner, he stepped up and volunteered to help us. Greg was a great researcher, and I will miss his quiet support of his peers.</p>
+	<b>—Stephanie Yan, CMDB Graduate Student</b>
+</div>
+
+<div class="box">
+	<p align="justify">I actually knew Greg before coming to CMDB for grad school – we were undergrads together here at Hopkins. Ann Mendoza (at the time, Greg's girlfriend) and I are sorority sisters, and I remember Greg coming out to support us during our Powderpuff Games, and him and Ann tearing up the dance floor at many of our sorority social functions. We had a fundraiser at Spring Fair every year called "Pie a Pi Phi," where us sisters got pied in the face for $1. Greg came out every year and made sure to support us (and in the process, cover Ann's face in whipped cream!). He was a such a warm, genuine, and caring individual, and he will be greatly missed.</p>
+	<b>—Natalie Murphy, CMDB Graduate Student</b>
+</div>
+
+<div class="box">
+	<p align="justify">I still remember the date I met Greg in the elevator when he was undergraduate. Then he became a technician, then an outstanding PhD student. What never change is Greg's smile, for me, always in the elevator. It hurts me after seeing this wonderful scientist growing up so quickly, then life is not as fair as I hope so, even as a medical doctor I should understand more than anyone else. Our life will move on but is different without you, Greg. Thank you very much for your contribution in G-body and RNA biology. As beauty of the science has always been, part of your life will stay shining after years passing by.</p>
+	<p align="justify">For Professor Fuller and family, you have a incredible son we all remember. Please accept my condolences for your family's loss.</p>
+	<p><b>—Ting-Yu Yeh, M.D., former Assistant Research Scientist</b></p>	
+</div>
+
+<div class="box">
+	<p align="justify">Greg and I started at Hopkins around the same time. We chatted quite often about similar grad-school experiences where our projects were different from the rest of the labs. Greg always radiated infectious chill and positivity, and with such attitude managed to take his research to exciting places. He and I were scheduled for progress report on the same day, and I still remember sitting in the audience being blown away by his talk. We last spoke a few weeks ago about his future plans in academia, and it is still difficult to process what just transpired. I offer the Fuller family my deepest condolences--Greg was a truly wonderful person and his memory will live on.</p>
+	<p><b>—Vu Nguyen, Ph.D., CMDB Postdoctoral Fellow</b></p>	
+</div>
+
+<div class="box">
+	<p align="justify">Greg was an exceptional researcher with an incredible depth of knowledge that sprung from a true love of science. Of all the pre-qualifying exams I have participated in, Greg's was unquestionably the most challenging for me, personally. Normally the exam is an exercise in testing the boundaries of a student's knowledge, but for Greg's, it was an exercise in testing my own. I struggled to find even the smallest gap in his knowledge as we dove deeper and deeper into questions of metabolism, and reached the limits of my own understanding. For many students, the pre-qualifying exam is an arduous prerequisite that must be suffered through to move on to their graduate work, but for Greg, it was a fulfilling opportunity to discuss science. I remember clearly how when I asked him about the Kreb's cycle, Greg smiled broadly and discussed it with a passionate fervor I doubt Kreb himself would have given to the topic.</p>
+	<p align="justify">It was obvious that thinking and talking about science was his life's passion, and I am truly devastated that this luminous fire has been extinguished so soon. Greg pushed the boundaries of science, and saw into the darkness further than most. He will be missed.</p>
+	<b>—Andrew Gordus, Assistant Professor of Biology</b>
+</div>
+
+<div class="box">
+	<p align="justify">Greg and I first met almost seven years ago, before he joined our CMDB graduate program. He contacted me about using piece of equipment in my lab, and we started a conversation while he was running his samples. I still remember this interaction after a number of years because I was immediately struck by Greg’s intellect, maturity, depth and warmth. Over the following years, it became very obvious that Greg was not only an unassuming, interesting and pleasant person to chat with, but that he was a highly gifted scientist. His work in John Kim’s lab on G bodies has been absolutely spectacular. Greg’s presentations (during progress reports and local meetings) were something that I was always looking forward to. He had a talent for setting off a scientific firework without any bombast or overselling, letting his beautiful data and his sharp conclusions speak for themselves. Greg clearly had a bright career in front of him. It is heartbreaking to see this path cut short so tragically. My thoughts are, first and foremost, with his family and his fiancé, with his friends inside and outside our department, with his lab mates and with his mentor John Kim.</p>
+	<b>—Christian Kaiser, Associate Professor of Biology</b>
+</div>
+
+<div class="box">
+	<p align="justify">Greg, that smile ... and always with a twinkle in your eye. I am smiling ear to ear as I think of it. A student full of energy and ready to learn all one could possibly learn. You are one of the best! Can't wait to celebrate your life with those who miss you. I'll always remember and miss that smile. I expect you are twinkling somewhere.</p>
+	<b>—Carolyn Fitch, Johns Hopkins Fellow</b>
+</div>
+
+<div class="box">
+	<p align="justify">I remember noting with colleagues that every time we would run into him in the hall, office, or even off campus, he had a warm welcoming smile and he greeted you like he meant it.</p>
+	<b>—Vincent Hilser, Professor and Chair of Biology</b>
 </div>
 
 <div class="box">
 	<p align="justify">I first met Greg in the spring of 2011 when, as a high school senior, he first visited my Integrated Imaging Center (IIC) at Johns Hopkins. He would go on to work in the IIC for for the next 4 years, throughout his undergraduate career. He was the IIC’s quality control technician who weekly examined, tested, and confirmed that all of our fluorescence microscopy instruments were performing properly. He subsequently became a research technician and later a graduate student in the laboratory of John Kim….One of my most cherished memories at Hopkins was learning that Greg had been accepted into the CMDB graduate program; and I was thrilled to have the opportunity to follow his burgeoning career…Alas, a career cut so tragically short!</p>
 	<p align="justify">In my all too brief a time working with and knowing Greg, like so many I am sure, I was most struck by his unique gift/combination of intelligence melded with his uncommon humility….To be sure, Greg was as smart as they came; and yet his intelligence was often masked in a quiet self-assurance/self-confidence, and, yes, understated humility… He was very smart and, yet unafraid of being wrong; he embraced responsibility but never hesitated to ask for help; and, most uncommonly endearing, he was a good listener and ‘oh so’ kind!…He always had keen insights to share, but was never in a rush to share them…Simply, Greg was a genuinely good person and had all of the qualities to become a great scientist; and yet, I believe his greatest contributions to the world/humanity would have been in training, educating, and leading others…The future will not be nearly so bright in Greg’s absence; but, gosh, did he leave a bright legacy!</p>
-	<p><b>—Michael McCaffery</b></p>	
-</div>
-		
-<div class="box">
-	<p align="justify">I still remember the date I met Greg in the elevator when he was undergraduate. Then he became a technician, then an outstanding PhD student. What never change is Greg's smile, for me, always in the elevator. It hurts me after seeing this wonderful scientist growing up so quickly, then life is not as fair as I hope so, even as a medical doctor I should understand more than anyone else. Our life will move on but is different without you, Greg. Thank you very much for your contribution in G-body and RNA biology. As beauty of the science has always been, part of your life will stay shining after years passing by.</p>
-	<p align="justify">For Professor Fuller and family, you have a incredible son we all remember. Please accept my condolences for your family's loss.</p>
-	<p><b>—Ting-Yu Yeh, M.D.</b></p>	
+	<p><b>—Michael McCaffery, Greg’s undergraduate mentor and former director of the Integrated Imaging Center</b></p>	
 </div>
 
 <div class="box">
-	<p align="justify">Greg and I started at Hopkins around the same time. We chatted quite often about similar grad-school experiences where our projects were different from the rest of the labs. Greg always radiated infectious chill and positivity, and with such attitude managed to take his research to exciting places. He and I were scheduled for progress report on the same day, and I still remember sitting in the audience being blown away by his talk. We last spoke a few weeks ago about his future plans in academia, and it is still difficult to process what just transpired. I offer the Fuller family my deepest condolences--Greg was a truly wonderful person and his memory will live on.</p>
-	<p><b>—Vu Nguyen</b></p>	
+	<p align="justify">Greg was an amazing scientist and colleague. Soft-spoken, Greg made every word count, with deep, incisive descriptions of his science and suggestions for others. His awkward, yet truly genuine, half-smile, half-nod, half-wave always lightened my day. His tremendous mind coupled with his immense humility made him one of my favorite people in the department. He was a true scientist and a thoughtful colleague. We will all miss Greg very much.</p>
+	<b>—Bob Johnston, Associate Professor of Biology</b>
 </div>
 		
 <div class="box">
-	<p align="justify">Rest in peace, Greg. Just a few days ago, we were talking about latest findings and future research plans. You had ideas, hopes and dreams, waiting for you to realize. I still remember your fantastic role as Steve Harvey in our 4th year retreat skit. I also vividly recall you were always the first to finish exams. With a shared goal, I imagined we would stay in touch for the decades to come. So long, my friend. I will miss you. Xiuqi, July 12, 2022</p>
-	<p><b>—Xiuqi Chen</b></p>	
+	<p align="justify">I first learned of Greg in an early conversation with John Kim about Hopkins students on my arrival in Baltimore 6 years ago. John spoke glowingly about the graduate program in general and about Greg in particular, as someone special and self-driven who was the sole individual in the lab working on what seemed to be a wild yeast cell biology project on liquid-liquid phase transitions in cytoplasmic granules or G-bodies. I met Greg by his poster at a subsequent CMDB retreat where he gave an impressive, systematic presentation of his on-going research. It was thoughtful, timely, and exciting, and convinced the skeptic in me that Greg’s work on LLPS was serious and solid, unlike so much going on in my field of eukaryotic transcription. It is a delight now to see his work in publications, affirming his unique contributions to the literature and his unusual maturity as an outstanding scholar. I had a soft spot for Greg as the ‘yeast’ student in John’s lab and recall the numerous times he would take his cultures along our lab corridor on his way to the autoclave. At the cusp of a brilliant career, it is heartbreaking to know that he is gone. Greg’s findings will spur on others to advance the questions he has defined for glycolysis enzymes in the cytoplasmic granules.</p>
+	<p align="justify">With sincere condolences to his parents, family, colleagues, and friends,</p>
+	<b>—Carl Wu, Bloomberg Distinguished Professor</b>
 </div>
+  
+<div class="box">
+	<p align="justify">I have known Greg from the beginning of his Ph.D period. Greg rotated in my lab and worked on a phase separating RNA binding protein, FUS. What I saw in Greg was an extremely careful scientist who performs many more control experiments than expected, a critical thinker who doesn't come to quick conclusions, a humble student who intently listens and takes in others' messages. Although it was only for eight weeks, Greg was a remarkable scholar that my group members admired and a gentle and kind friend who we adored. The second phase of my encounter with Greg was through his annual thesis meetings for the past four years or so. I was truly privileged to be one of his thesis committee members from the beginning. I got to watch Greg make new discoveries, overcome insurmountable barriers in conducting experiment, achieve far beyond expectations both in published and the unpublished work and grow up to be a stellar scientist. Greg's thesis meetings were always the special annual event that I looked forward to attending because I got to see Greg's beautiful mastery of science being formed, shaped and perfected into an incredible piece of mater piece. Despite his amazing accomplishment, Greg always demonstrated his humility as a scientist, always, always taking in advice, taking detailed notes throughout the thesis meetings while carefully evaluating his work. I miss Greg and his outstanding thesis meetings, the impeccable scientist who would have made many more exciting discoveries and most of all, the calm and gentle smiles he always carried around. Greg and his many accomplishments will be remembered and cherished forever.</p>
+	<b>—Sua Myong, Professor of Biophysics</b>
+</div>
+
+<div class="box">
+	<p align="justify">Greg has been a wonderful TA for the Epigenetics course John and I co-teach. It has been such a pleasure to work with him and get to know him. Greg is super smart, very reliable, and always a joy to work with. It is such an honor to have known and worked with Greg! We will miss him, very, very much---</p>
+	<b>—Xin Chen, Professor of Biology</b>
+</div>
+		
+<div class="box">
+	<p align="justify">I met Greg three years ago when I arrived at Hopkins, and I quickly connected with him through his work. Like me, Greg worked on RNA granules and tried to understand how they form and work within cells. Greg observed that in response to hypoxia, the budding yeast form G bodies, which are small RNA granules composed of the glycolysis enzymes and RNA. This observation was exciting not only because it indicated that the metabolic enzymes could become organized within cells, reminiscent of metabolic factories, but more importantly because Greg demonstrated that by co-organizing, these enzymes increase the efficiency of metabolic reactions! To date, this was among the best (and only), examples which demonstrated that phase separation can enhance biochemical reactions in cells.</p>
+	<p align="justify">I will remember Greg by another experiment, the Trojan Horse assay. Numerous studies demonstrated that RNA granules require RNA for their formation. However, these were “fast” experiments, mainly performed on biochemically purified proteins and in vitro transcribed RNAs. So, a fundamental question remained in the field: are RNAs really that important for the formation of RNA granules if one looked inside the cells and take a complex cellular environment into consideration? This is exactly what Greg did. He used an elegant genetic trick and engineered yeast cells to enrich an RNase fusion protein in G bodies. Once there and on cue, this RNase then degraded RNA stored in G bodies. This experiment is simple yet clever and one of my favorites in the field of RNA granules.</p>
+	<p align="justify">I will remember Greg by his simple yet elegant science. Rather than using in vitro experiments, which would bring fast results, Greg instead chose the harder path and investigated biological processes in whole, live cells to understand how they work. With Greg’s passing, we have not only lost a colleague and a friend, but also a great scientist with a keen appreciation and enthusiasm for biology.</p>
+	<b>—Tatjana Trcek, Assistant Professor of Biology</b>
+</div>
+
+	
+
+		
+
+
+
+		
+
+
+
+		
+
 	
 <center>
 	<ul class="actions">
