@@ -12,6 +12,16 @@ show_tile: false
 <div class="row"> 
   <div class="column">
     <img src="assets/images/collage02.png">
+    <img src="assets/images/collage03.png">
+    <img src="assets/images/collage04.png">
+    <img src="assets/images/collage05.png">
+    <img src="assets/images/collage06.png">
+    <img src="assets/images/collage07.png">
+    <img src="assets/images/collage08.png">
+    <img src="assets/images/collage09.png">
+    <img src="assets/images/collage10.png">
+    <img src="assets/images/collage11.png">
+    <img src="assets/images/collage12.png">
     %<img src="assets/images/Ann and Greg at their Hopkins Graduation, May 2015.jpeg">
     %<img src="assets/images/At fountain in Athens with his family, Summer 2003.jpeg">
     %<img src="assets/images/At Mt. Vesuvius, Sept 1999.jpeg">
